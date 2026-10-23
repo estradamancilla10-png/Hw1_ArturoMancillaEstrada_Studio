@@ -1,0 +1,6 @@
+{
+  "name": "UTD CometServe - Volunteer Shift Tracker",
+  "description": "Comprehensive volunteer shift and clinical hours tracking for University of Texas at Dallas (UTD) students, with department protocols for HPAC Pre-Health, JSOM 100-Hour requirement, OSV Comet Honors, ECS STEM Outreach, and Greek Life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
